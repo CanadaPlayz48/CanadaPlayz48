@@ -1,19 +1,22 @@
 # Hello, world! 👋
 
-# Information
+## Information
 
-Name
+### Name
   - CanadaPlayz48
 
-Hobbies:
+### Pets
+  - Zebra finches (6 of them!)
+
+### Hobbies:
   - Drawing
   - gaming
   - Music
 
-Favorite sport:
+### Favorite sport:
   - Formula One
 
-Favvorite games: 
+### Favvorite games: 
   - F1 Manager 24, 
   - Cities Skylines
   - F1 23
