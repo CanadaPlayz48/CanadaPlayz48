@@ -32,6 +32,14 @@ Favorite team: Red Bull or McLaren
 
 Favorite driver: all of them. <i> They're all good.</i>
 
+Current Defending Drivers Champion (2023): Max Verstappen
+
+Current Drivers Championship Leader (2024): Max Verstappen
+
+Current Defending Teams Champion (2023): Red Bull Racing
+
+Current Teams Championship Leader (2024): McLaren
+
 ## Other Projects
 Here's a logo I designed:
 
