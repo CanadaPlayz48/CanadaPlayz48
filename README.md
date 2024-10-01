@@ -2,8 +2,10 @@
 
 ## Introduction
 
-### Name
-  - CanadaPlayz48
+### Information
+  #### Name
+  - CanadaPlayz48 (Online)
+  - Radzil (Real name)
 
 ### Pets
   - Zebra finches (6 of them!)
@@ -19,7 +21,7 @@
   - Formula One
   - Basketball (occasionally)
 
-### Favvorite games: 
+### Favorite games: 
   - F1 Manager 24
   - Cities Skylines
   - F1 23
@@ -30,9 +32,11 @@ Favorite team: Red Bull or McLaren
 
 Favorite driver: all of them. <i> They're all good.</i>
 
-## Miscellaneous
+## Other Projects
 Here's a logo I designed:
 
-<a href="https://ibb.co/ypWBn6r"><img src="https://i.ibb.co/ypWBn6r/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/ypWBn6r"><img src="https://i.ibb.co/ypWBn6r/image.png" alt="image"></a>
 
 The logo was made through the F1 Manager 24 logo editor adapted from a similar design I made.
+
+I also made a website using HTML for my Grade 10 Computer Science Final via <i>Replit</i>
