@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-## Information
+## Introduction
 
 ### Name
   - CanadaPlayz48
@@ -12,7 +12,8 @@
 ### Hobbies:
   - Drawing
   - gaming
-  - Music
+  - coding
+  - F1
 
 ### Favorite sport:
   - Formula One
