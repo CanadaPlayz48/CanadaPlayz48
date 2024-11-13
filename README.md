@@ -1,5 +1,4 @@
-# Hello, world! 👋
-
+# Hello, and welcome to my about me page!
 ## Introduction
 
 ### Information
@@ -27,24 +26,7 @@
   - F1 23
   - Minecraft
 
-## Formula One
-Favorite team: Red Bull or McLaren
-
-Favorite driver: all of them. <i> They're all good.</i>
-
-Current Defending Drivers Champion (2023): Max Verstappen
-
-Current Drivers Championship Leader (2024): Max Verstappen
-
-Current Defending Teams Champion (2023): Red Bull Racing
-
-Current Teams Championship Leader (2024): McLaren
-
-## Other Projects
-Here's a logo I designed:
-
-<a href="https://ibb.co/ypWBn6r"><img src="https://i.ibb.co/ypWBn6r/image.png" alt="image"></a>
-
-The logo was made through the F1 Manager 24 logo editor adapted from a similar design I made.
-
-I also made a website using HTML for my Grade 10 Computer Science Final via <i>Replit</i>
+## Other Projects:
+  - Portfolio Website: https://canadaplayz48.github.io/RBportfolio/
+  - F1 Stats Website: https://canadaplayz48.github.io/CP48_F1Stats/
+    - The above website is accurate as of the <b>2024 United States GP</b>
